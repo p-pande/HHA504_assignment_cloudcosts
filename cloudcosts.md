@@ -35,7 +35,7 @@
     - Cost estimates and Recommendations
     ![alt text](img/GCP_cost_estim1.png)
     ![alt text](img/GCP_cost_estim2.png)
-    ![alt text](gcp_cost_rec.png)
+    ![alt text](img/gcp_cost_rec.png)
 
 
 
